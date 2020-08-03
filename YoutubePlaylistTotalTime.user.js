@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Youtube Playlist Total Time
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Shows the total time in a youtube playlist!
 // @author       You
 // @match        https://www.youtube.com/playlist*
+// @match        https://youtube.com/playlist*
 // @grant        none
 // ==/UserScript==
 
